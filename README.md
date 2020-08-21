@@ -16,16 +16,16 @@ La siguiente tabla muestra la correspondencia de actividades y los contenidos se
 | AF1       | Formativa | Semana 2            | Programación orientada a objetos I  |
 | AS1       | Sumativa  | Semana 3            | Programación orientada a objetos II |
 | AF2       | Formativa | Semana 4            | Excepciones                         |
-| AF3       | Formativa | Semana 5            | Iterables                           |
+| -         | -         | Semana 5            | Iterables                           |
 | -         | -         | Semana 6            | Semana de Receso                    |
 | -         | -         | Semana 7            | Semana de Repaso                    |
 | AS2       | Sumativa  | Semana 8            | _Threading_                         |
-| AF4       | Formativa | Semana 9            | Interfaces gráficas I               |
+| AF3       | Formativa | Semana 9            | Interfaces gráficas I               |
 | -         | -         | Semana 10           | Interfaces gráficas II              |
-| AF5       | Formativa | Semana 11           | Estructuras nodales I               |
+| AF4       | Formativa | Semana 11           | Estructuras nodales I               |
 | AS3       | Sumativa  | Semana 12           | Estructuras nodales II              |
 | AS4       | Sumativa  | Semana 13           | I/O y Serialización                 |
-| AF6       | Formativa | Semana 14           | _Networking_                        |
+| AF5       | Formativa | Semana 14           | _Networking_                        |
 
 
 Si tienes dudas sobre el contenido puedes abrir una issue [aquí](https://github.com/IIC2233/Syllabus/issues).
